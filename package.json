@@ -1,0 +1,28 @@
+{
+  "name": "nanostring",
+  "version": "1.0.0",
+  "description": "A super simple random string generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcatmwi/nanostring.git"
+  },
+  "keywords": [
+    "nanoid",
+    "nanostring",
+    "string",
+    "random"
+  ],
+  "author": "tomcatmwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomcatmwi/nanostring/issues"
+  },
+  "homepage": "https://github.com/tomcatmwi/nanostring#readme",
+  "dependencies": { 
+    "nanostring": "1.0.0" 
+  }
+}
